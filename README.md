@@ -3,7 +3,7 @@
 From the OOBE Screen press Shift + F10
 
 ```
-curl -L fractionalit/bypass -o skip.cmd
+curl -L fractionalit.io/bypass -o skip.cmd
 skip.cmd
 ```
 
